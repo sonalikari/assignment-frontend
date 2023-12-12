@@ -1,4 +1,4 @@
-# Currency Converter Frontend
+# Price Conversion Frontend
 
 ## Getting Started
 
